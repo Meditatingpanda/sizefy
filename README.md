@@ -1,3 +1,3 @@
 # sizefy
 It gives size of any public repo.
-<img width="910" alt="Screenshot 2022-05-09 at 5 44 00 PM" src="https://user-images.githubusercontent.com/83230804/167407647-6f7e22f7-b43b-43db-b834-671c05cda884.png">
+<img width="862" alt="Screenshot 2022-05-09 at 7 52 46 PM" src="https://user-images.githubusercontent.com/83230804/167430951-562fe221-fa78-4216-99c0-babb766b1210.png">
