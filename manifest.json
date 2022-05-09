@@ -1,0 +1,21 @@
+{
+
+    "manifest_version": 3,
+    "name": "Sizefy",
+    "version": "1.0",
+  
+    "description": "Show Size of The Github Repo",
+  
+    "icons": {
+      "48": "icons/eyelash.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://github.com/*"],
+        "js": ["src/index.js"]
+      }
+    ]
+  
+  }
+  
